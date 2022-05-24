@@ -1,2 +1,4 @@
-# Bowling-Game
- Systematisk applikationsutveckling med C#NET Dec2020
+# BowlingSimulator
+
+
+Systematisk applikationsutveckling med C#NET (Kurs) Uppgift02  DEC2020
