@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4OF5ghk5BngBiTOj2Wbtqs+Xqvgy0LpP7vEUG7pHLNN3JvydX6y04aQ/PPvh6BCodlXGZrsUyurt5FtHHls7hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rima\\Desktop\\Uppgift02\\BowlingSimulator\\BowlingLibrary\\BowlingLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
