@@ -1,0 +1,8 @@
+C:\Users\Rima\Desktop\Uppgift02\Bowling.v3\BowlingSimulator\Bowling.Test\obj\Debug\netcoreapp3.1\Bowling.Test.csprojAssemblyReference.cache
+C:\Users\Rima\Desktop\Uppgift02\Bowling.v3\BowlingSimulator\Bowling.Test\obj\Debug\netcoreapp3.1\Bowling.Test.AssemblyInfoInputs.cache
+C:\Users\Rima\Desktop\Uppgift02\Bowling.v3\BowlingSimulator\Bowling.Test\obj\Debug\netcoreapp3.1\Bowling.Test.AssemblyInfo.cs
+C:\Users\Rima\Desktop\Uppgift02\Bowling.v3\BowlingSimulator\Bowling.Test\obj\Debug\netcoreapp3.1\Bowling.Test.csproj.CoreCompileInputs.cache
+C:\Users\Rima\Desktop\Uppgift02\BowlingSimulator\Bowling.Test\obj\Debug\netcoreapp3.1\Bowling.Test.csprojAssemblyReference.cache
+C:\Users\Rima\Desktop\Uppgift02\BowlingSimulator\Bowling.Test\obj\Debug\netcoreapp3.1\Bowling.Test.AssemblyInfoInputs.cache
+C:\Users\Rima\Desktop\Uppgift02\BowlingSimulator\Bowling.Test\obj\Debug\netcoreapp3.1\Bowling.Test.AssemblyInfo.cs
+C:\Users\Rima\Desktop\Uppgift02\BowlingSimulator\Bowling.Test\obj\Debug\netcoreapp3.1\Bowling.Test.csproj.CoreCompileInputs.cache
